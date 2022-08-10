@@ -12,6 +12,7 @@ Variant: Pre 3.15.0
 Variant: Pre 3.16.0
 Variant: Current
 Requires Level 50
+<<<<<<< HEAD
 {variant:3}100% increased Life Recovered
 {variant:4,5}50% increased Life Recovered
 {variant:1}(20-30)% reduced Recovery rate
@@ -19,6 +20,14 @@ Requires Level 50
 {variant:5}(35-50)% reduced Recovery rate
 Recover Full Life at the end of the Flask Effect
 {variant:1,2}Cannot gain Life during effect
+=======
+{variant:1,2,3}(5-20)% increased Recovery Speed
+{variant:4}(35-50)% reduced Recovery Speed
+{variant:1}No Life Recovery Applies during Flask effect
+{variant:2}100% increased Life Recovered
+{variant:3}50% increased Life Recovered
+Recover Full Life at the end of the Flask effect
+>>>>>>> 0eedc580 (wording of blood of karui fixed)
 ]],
 -- Flask: Mana
 [[
