@@ -24,8 +24,8 @@ Recover Full Life at the end of the Flask Effect
 {variant:1,2,3}(5-20)% increased Recovery Speed
 {variant:4}(35-50)% reduced Recovery Speed
 {variant:1}No Life Recovery Applies during Flask effect
-{variant:2}100% increased Life Recovered
-{variant:3}50% increased Life Recovered
+{variant:2}100% increased Amount Recovered
+{variant:3}50% increased Amount Recovered
 Recover Full Life at the end of the Flask effect
 >>>>>>> 0eedc580 (wording of blood of karui fixed)
 ]],
